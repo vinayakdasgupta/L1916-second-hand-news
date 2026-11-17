@@ -1,4 +1,4 @@
-# Second-hand news in letters: code and data
+# Second-hand news: code and data
 
 Code and data for a pilot study of how letter writers report second-hand information. The study measures how many links separate the writer from the information, and whether expressed doubt varies with that distance. The letters are the 519 transcriptions tagged "Easter Rising Ireland 1916" in [Letters 1916-1923](https://letters1916.ie), dated 10 November 1915 to 4 May 1917.
 
